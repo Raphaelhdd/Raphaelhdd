@@ -1,19 +1,18 @@
 # Raphael Haddad - GitHub Profile
 
-👋 Hi there! I'm Raphael Haddad, a fourth-year Computer Science student at The Hebrew University of Jerusalem. I have a passion for web scraping, machine learning, and identifying security vulnerabilities for educational purposes.
+👋 Hi there! I'm Raphael Haddad, a Computer Science graduate from The Hebrew University of Jerusalem. I have a passion for web scraping, cybersecurity, machine learning, and identifying security vulnerabilities for educational purposes.
 
 ## 🎓 Education
 
 - **The Hebrew University of Jerusalem**
   - B.Sc, Computer Science
-  - 4th Year
-  - Completed Courses: Python, C/C++, OOP, Machine Learning, Natural Language Processing, Operating Systems, Databases, Data Structures, Algorithms, Computational Models, Communication Networks
+  - Completed Courses: Python, C/C++, OOP, Machine Learning, Natural Language Processing, Operating Systems, Databases, Data Structures, Algorithms, Computational Models, Communication Networks, Data Science, Intelligence Artificial
 
 ## 💼 Skills
 
 I work with various programming languages:
 
-- Python (Backend)
+- Python 
 - C, C++
 - Java
 
@@ -21,10 +20,6 @@ I work with various programming languages:
 
 - [LinkedIn](https://www.linkedin.com/in/raphael-haddad/)
 - [GitHub](https://github.com/Raphaelhdd)
-
-## 🚀 What I'm Learning
-
-Currently, I'm exploring security vulnerabilities in websites and working on a machine learning project to identify potential scams on Vinted.
 
 ## 🛠️ Projects
 
